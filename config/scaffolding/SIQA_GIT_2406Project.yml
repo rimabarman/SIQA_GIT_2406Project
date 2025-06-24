@@ -3,9 +3,9 @@ info:
   model: int-scaffold
 packages:
 - name: SIQA_GIT_2406Project
-  gitServerName: rimaSCName
+  gitServerName: kvv
   gitUrl: https://github.com/rimabarman
-  gitUsername: rimabarman
+  gitUsername: Karthik-V-IBM-10
   gitBranch: main
 services:
 - serviceName: project.siqa_git_2406.integrations:AlertsCRTandERT
